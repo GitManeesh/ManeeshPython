@@ -10,3 +10,4 @@ setup(
     author_email='tusharborole@ymail.com',
     description='HospitalManagementSystem for college python course'
 )
+
